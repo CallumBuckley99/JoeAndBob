@@ -1,0 +1,13 @@
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.csproj.AssemblyReference.cache
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.AssemblyInfoInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.AssemblyInfo.cs
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.csproj.CoreCompileInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.exe
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.deps.json
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.runtimeconfig.json
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.runtimeconfig.dev.json
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.dll
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.pdb
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.dll
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.pdb
+C:\Users\Client 6.2021 SSD\source\repos\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.genruntimeconfig.cache
